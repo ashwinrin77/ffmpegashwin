@@ -85,6 +85,8 @@ logs - get bot logs
 help - same as start
 ```
 
+[![Name](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ashwinrin77/ffmpegashwin)
+
 ### Features:
 __(Coming Soon)__
 
