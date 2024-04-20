@@ -32,7 +32,7 @@ class Config:
             self.BOT_TOKEN = config("BOT_TOKEN")
             self.CACHE_DL = config("CACHE_DL", default=False, cast=bool)
             self.CAP_DECO = config("CAP_DECO", default="◉")
-            self.C_LINK = config("C_LINK", default="@animetamil_xyz")
+            self.C_LINK = config("C_LINK", default="@FZXAnime")
             self.CMD_SUFFIX = config("CMD_SUFFIX", default=str())
             self.DATABASE_URL = config("DATABASE_URL", default="mongodb+srv://ROKU:ROKU@cluster0.nxjre0s.mongodb.net/?retryWrites=true&w=majority")
             self.DBNAME = config("DBNAME", default="ENC")
